@@ -8,6 +8,7 @@ public class Hangman
 	//This is a test
 	//Generates a random object for randomized variables
 	//Testing Pulls
+	//Testing Commits
 		static Random generator = new Random();
 		static int StartChances = 7;
 		int chances;
