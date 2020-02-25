@@ -5,6 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 public class Hangman 
 {
+	//This is a test
 	//Generates a random object for randomized variables
 		static Random generator = new Random();
 		static int StartChances = 7;
